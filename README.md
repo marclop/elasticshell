@@ -10,6 +10,21 @@
 * Persistent history
 * User/password support
 
+# Installation
+
+To install `elasticshell` you can either grab the latest binaries in the [release page](https://github.com/marclop/elasticshell/releases)
+or install the latest and most recent commit from the source code
+
+## Latest build
+
+`elasticshell` will be placed in /usr/local/bin/elasticshell
+
+```sh
+git clone https://github.com/marclop/elasticshell
+cd elasticshell
+make install
+```
+
 # Default configuration
 
 There are a few configuration flags you can pass to `elasticshell`:
