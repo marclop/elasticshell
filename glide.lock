@@ -1,6 +1,0 @@
-hash: def71aa5ab8737c85e5d555bda163947d619f409154ba0042f39bf03ba6d1bb6
-updated: 2017-02-18T01:23:46.767934802+01:00
-imports:
-- name: github.com/chzyer/readline
-  version: 62c6fe6193755f722b8b8788aa7357be55a50ff1
-testImports: []

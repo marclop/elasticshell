@@ -1,4 +1,0 @@
-package: github.com/marclop/elasticshell
-import:
-- package: github.com/chzyer/readline
-  version: ^1.4.0
